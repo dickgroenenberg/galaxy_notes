@@ -1,7 +1,7 @@
 # galaxy_make_otu_table_example
 
 The purpose of this tool is to group reads in OTUs and count the number
-of reads within each OTU. Most of the time this will be amplicon data that
+of reads within each OTU. Most of the time this will be amplicon data (e.g. eDNA metabarcoding) that
 has been sequenced on an NGS platform (Illumina, IonTorrent, etc.)
 Before the **"Make otu table"** tool can be used reads should at least be merged
 (assuming paired-end data) and preferably trimmed.  
