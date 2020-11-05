@@ -25,6 +25,8 @@
 #
 #------------------------------------------------------------------------------------------------------
 
+cd /home/galaxy/galaxy
+
 # if non-existing create log-folders:
 mkdir -p /home/galaxy/Log/cleanup /home/galaxy/Log/pgcleanup
 
